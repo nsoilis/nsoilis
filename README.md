@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nsoilis
-- 👀 I’m interested in Animals, Conservation, and learningt to Code. 
+- 👀 I’m interested in Animals, Conservation, and learning to Code. 
 - 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on whatver projects seem fun and interesting
 - 📫 How to reach me nicholassoilis@gmail.com
